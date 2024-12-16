@@ -7,7 +7,7 @@
 #### En mis publicaciones comparto parte de mi trayectoria y experiencia ganada de crecimiento personal y profesional
 #### Saludos 😎
 
-## TecnoSofware - IT Analyst | Experiencia actual | Actually Job
+## TecnoSofware - IT Analyst | Experiencia actual
 
 ● Empresa: Cencosud S.A. Argentina
 Cadenas de Supermercado (Jumbo, Disco y VEA, a nivel nacional) - Rubro Retail, ventas minoristas de alimentos y artículos para el hogar.
