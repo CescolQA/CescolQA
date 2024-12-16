@@ -7,7 +7,8 @@
 #### En mis publicaciones comparto parte de mi trayectoria y experiencia ganada de crecimiento personal y profesional
 #### Saludos 😎
 
-## Experiencia actual | Actually
+## Experiencia actual | Actually Job
+## TecnoSofware - IT Analyst
 
 ● Empresa: Cencosud S.A. Argentina
 Cadenas de Supermercado (Jumbo, Disco y VEA, a nivel nacional) - Rubro Retail, ventas minoristas de alimentos y artículos para el hogar.
@@ -39,3 +40,23 @@ Gestión de trabajo con Atlassian: Jira Software / Confluence & Microsoft: Outlo
 Lectura de código y manejo de datos en formatos XML, Json, etc con Visual Studio Code / NotePad ++
 Inspección de servidores con MobaXterm
 
+## UPEX - Analista Tester QA
+
+✔Manejo de la metodología SCRUM para marco de trabajo Agile
+✔Manejo de Jira para Issue Management
+✔Manejo de XRay para Test Management
+✔Manejo de Confluence para Documentación
+
+🔹Análisis de Funcionalidad de User Stories
+🔹Diseño y derivación de Test Cases
+🔹Ejecución de pruebas y reporte de Bugs y Defectos
+🔹Cierre de Pruebas y Seguimiento de Trazabilidad
+🔹Consultas de Base de datos y API
+
+##  Panacol - Product Owner
+
+◾️Relevamiento y análisis de requerimientos funcionales del negocio.
+◾️Elaboración de la documentación técnica del proyecto.
+◾️Armado de diagramas de proceso.
+◾️Manejo, lectura y manipulación de datos.
+◾️Creación de casos de uso / historias de usuario.
