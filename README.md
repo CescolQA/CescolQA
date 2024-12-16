@@ -54,8 +54,6 @@ Inspección de servidores con MobaXterm
 
 ##  Panacol - Product Owner
 
-◾️Relevamiento y análisis de requerimientos funcionales del negocio.
-◾️Elaboración de la documentación técnica del proyecto.
-◾️Armado de diagramas de proceso.
-◾️Manejo, lectura y manipulación de datos.
+◾️Relevamiento y análisis de requerimientos funcionales y técnicos del negocio.
+◾️Manejo y Gestión de Backlog.
 ◾️Creación de casos de uso / historias de usuario.
