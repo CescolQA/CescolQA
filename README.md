@@ -28,7 +28,11 @@ Equipo operativo de mantenimiento, soporte y desarrollo del Sistema de Gestión 
 
  ◾️ Logros y desafíos destacados: 
 - Incorporación de Agentes de Inteligencia Artificial para atención a usuarios (OpenIA / Plai)
-- Modernización de equipos y tecnólogias en las lineas de cajas y sistemas de impresiones de flejes (POS NCR / ASLS) 
+- Modernización de equipos y tecnólogias en las lineas de cajas y sistemas de impresiones de flejes (POS NCR / ASLS)
+
+ ◾️ Logros del Equipo y del ecosistema Cencosud asociados al SGC: 
+- Integración con la Mobile App 'Mi Local' para la operatividad y comunicación entre la administración central y los locales en cuanto al stock, precios e impresión de flejes de artículos.
+- Integración con la Web/Mobile App 'Cheaf' para la expansión del modelo de negocio del rescate y compra de comidas a la mitad de su precio original. https://www.cheaf.com/cl/
 
  ◾️ Herramientas y tecnologías del proyecto:
 Managment de bases de datos con Microsoft SQL Server (Profiler - Stored Procedures) 
