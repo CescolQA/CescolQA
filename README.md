@@ -7,7 +7,8 @@
 #### En mis publicaciones comparto parte de mi trayectoria y experiencia ganada de crecimiento personal y profesional
 #### Saludos 😎
 
-## TecnoSoftware - Analista Funcional IT (Experiencia actual)
+## TecnoSoftware - Analista Funcional IT
+## Nov. 2022 - Actualidad
 
 ● Empresa: Cencosud S.A. Argentina
 Cadenas de Supermercado (Jumbo, Disco y VEA, a nivel nacional) - Rubro Retail, ventas minoristas de alimentos y artículos para el hogar.
