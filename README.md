@@ -46,6 +46,7 @@ Lectura de código y manejo de datos en formatos XML, Json, etc con Visual Studi
 Inspección de servidores con MobaXterm
 
 ## UPEX - Analista Tester QA
+May. 2022 - Dic. 2022
 
 ✔Manejo de la metodología SCRUM para marco de trabajo Agile
 ✔Manejo de Jira para Issue Management
@@ -59,7 +60,18 @@ Inspección de servidores con MobaXterm
 🔹Consultas de Base de datos y API
 
 ##  Panacol - Product Owner
+Mar. 2021 - Dic. 2022
 
 ◾️Relevamiento y análisis de requerimientos funcionales y técnicos del negocio.
 ◾️Manejo y Gestión de Backlog.
-◾️Creación de casos de uso / historias de usuario.
+◾️Responsable productivo y operativo.
+
+##  Proyectos Varios - Ingeniero Supervisor de Obras Mécanicas Industriales
+Ene. 2016 - Dic. 2019
+
+◾️Responsable de las inspecciones de campo de las distintas instalaciones mecánicas
+◾️Manejo de personal y equipos de trabajo
+◾️Seguimiento y control de las planificaciones y entregables de los proyectos
+
+
+
