@@ -18,7 +18,7 @@ Equipo operativo de mantenimiento, soporte y desarrollo del Sistema de Gestión 
   ◾️ Logros y desafíos destacados: 
 - Extensión sistemática y mejora operativa de la gestión de artículos próximos a vencer
 - Incorporación de Agentes de Inteligencia Artificial para atención a usuarios (OpenIA / Plai)
-- Modernización de equipos y tecnólogias en las lineas de cajas y sistemas de impresiones de flejes (POS NCR / ASLS)
+- Modernización de equipos y tecnólogias en los puntos de venta y sistemas de impresiones de flejes (POS NCR / ASLS)
 
  ◾️ Logros del Equipo y del ecosistema Cencosud asociados al SGC: 
 - Integración con la Mobile App 'Mi Local' para la operatividad y comunicación entre la administración central y los locales en cuanto al stock, precios e impresión de flejes de artículos.
